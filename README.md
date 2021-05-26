@@ -22,6 +22,10 @@ Run production environment
 
 HTML5, CSS3, Sass ,JavaScript, React, Next, Context API.
 
+Desktop
 ![Captura de la app](./public/img/Challenge.png)
 
-[See the app](https://challengue-react.vercel.app/) 📦
+Movil
+![Captura de la app](./public/img/movil.png)
+
+[See the app](https://challenge-react.vercel.app/) 📦
