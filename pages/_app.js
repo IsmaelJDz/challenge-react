@@ -1,7 +1,13 @@
-import '../styles/globals.css'
+import "../styles/globals.css";
+
+import HomeContext from "../context/home/HomeState";
 
 function MyApp({ Component, pageProps }) {
-  return <Component {...pageProps} />
+  return (
+    <HomeContext>
+      <Component {...pageProps} />
+    </HomeContext>
+  );
 }
 
-export default MyApp
+export default MyApp;

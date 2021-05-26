@@ -1,3 +1,15 @@
+:root {
+  --black: #000000;
+  --white: #ffffff;
+  --white-light: #eaeaea;
+  --blue-dark: #142740;
+  --orange: #f23e16;
+  --orange-dark: #d93223;
+  --beige: #f2cda0;
+  --beige-dark: #d9b07e;
+  --gray: #838383;
+}
+
 html,
 body {
   padding: 0;
