@@ -32,7 +32,7 @@ export default function Home(props) {
  */
 
 export async function getStaticProps(context) {
-  const res = await fetch("https://challenge-react.vercel.app//api/data");
+  const res = await fetch("https://challenge-react.vercel.app/api/data");
   const data = await res.json();
 
   if (!data) {
