@@ -20,7 +20,7 @@ Run production environment
 
 # Technologies 🛠
 
-HTML5, CSS3, SaSS ,JavaScript, React, Next, Context API.
+HTML5, CSS3, Sass ,JavaScript, React, Next, Context API.
 
 ![Captura de la app](./public/img/Challenge.png)
 
